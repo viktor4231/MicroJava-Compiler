@@ -1,0 +1,2242 @@
+INFO  00:06:42,535 - Compiling source file: C:\Users\Viktor\Desktop\ETF\PP1 proba\MJCompiler\test\program.mj
+INFO  00:06:42,551 - #2 program
+INFO  00:06:42,551 - #28 test301
+INFO  00:06:42,551 - #7 const
+INFO  00:06:42,551 - #28 int
+INFO  00:06:42,551 - #28 nula
+INFO  00:06:42,552 - #8 =
+INFO  00:06:42,552 - #29 0
+INFO  00:06:42,552 - #5 ;
+INFO  00:06:42,552 - #7 const
+INFO  00:06:42,553 - #28 int
+INFO  00:06:42,553 - #28 jedan
+INFO  00:06:42,553 - #8 =
+INFO  00:06:42,553 - #29 1
+INFO  00:06:42,553 - #5 ;
+INFO  00:06:42,553 - #7 const
+INFO  00:06:42,553 - #28 int
+INFO  00:06:42,553 - #28 pet
+INFO  00:06:42,553 - #8 =
+INFO  00:06:42,553 - #29 5
+INFO  00:06:42,553 - #5 ;
+INFO  00:06:42,553 - #28 int
+INFO  00:06:42,560 - #28 niz
+INFO  00:06:42,560 - #9 [
+INFO  00:06:42,560 - #10 ]
+INFO  00:06:42,560 - #5 ;
+INFO  00:06:42,561 - #28 char
+INFO  00:06:42,561 - #28 nizch
+INFO  00:06:42,561 - #9 [
+INFO  00:06:42,561 - #10 ]
+INFO  00:06:42,561 - #5 ;
+INFO  00:06:42,561 - #28 int
+INFO  00:06:42,561 - #28 a
+INFO  00:06:42,561 - #5 ;
+INFO  00:06:42,562 - #28 set
+INFO  00:06:42,562 - #28 s1
+INFO  00:06:42,562 - #6 ,
+INFO  00:06:42,562 - #28 s2
+INFO  00:06:42,562 - #6 ,
+INFO  00:06:42,562 - #28 s3
+INFO  00:06:42,562 - #5 ;
+INFO  00:06:42,562 - #3 {
+INFO  00:06:42,562 - #19 void
+INFO  00:06:42,562 - #28 main
+INFO  00:06:42,562 - #11 (
+INFO  00:06:42,563 - #12 )
+INFO  00:06:42,563 - #28 int
+INFO  00:06:42,563 - #28 bodovi
+INFO  00:06:42,563 - #5 ;
+INFO  00:06:42,564 - #28 int
+INFO  00:06:42,564 - #28 temp
+INFO  00:06:42,564 - #5 ;
+INFO  00:06:42,564 - #3 {
+INFO  00:06:42,564 - #28 bodovi
+INFO  00:06:42,564 - #8 =
+INFO  00:06:42,565 - #29 0
+INFO  00:06:42,565 - #5 ;
+INFO  00:06:42,565 - #28 bodovi
+INFO  00:06:42,565 - #17 ++
+INFO  00:06:42,565 - #5 ;
+INFO  00:06:42,565 - #28 bodovi
+INFO  00:06:42,565 - #8 =
+INFO  00:06:42,565 - #28 bodovi
+INFO  00:06:42,565 - #20 +
+INFO  00:06:42,565 - #28 jedan
+INFO  00:06:42,566 - #5 ;
+INFO  00:06:42,566 - #28 bodovi
+INFO  00:06:42,566 - #8 =
+INFO  00:06:42,566 - #28 bodovi
+INFO  00:06:42,566 - #22 *
+INFO  00:06:42,566 - #28 pet
+INFO  00:06:42,566 - #5 ;
+INFO  00:06:42,567 - #28 bodovi
+INFO  00:06:42,567 - #18 --
+INFO  00:06:42,567 - #5 ;
+INFO  00:06:42,567 - #15 print
+INFO  00:06:42,567 - #11 (
+INFO  00:06:42,567 - #28 bodovi
+INFO  00:06:42,567 - #12 )
+INFO  00:06:42,567 - #5 ;
+INFO  00:06:42,567 - #15 print
+INFO  00:06:42,567 - #11 (
+INFO  00:06:42,567 - #28 eol
+INFO  00:06:42,567 - #12 )
+INFO  00:06:42,567 - #5 ;
+INFO  00:06:42,567 - #28 niz
+INFO  00:06:42,567 - #8 =
+INFO  00:06:42,567 - #25 new
+INFO  00:06:42,567 - #28 int
+INFO  00:06:42,567 - #9 [
+INFO  00:06:42,567 - #29 3
+INFO  00:06:42,567 - #10 ]
+INFO  00:06:42,567 - #5 ;
+INFO  00:06:42,567 - #28 niz
+INFO  00:06:42,567 - #9 [
+INFO  00:06:42,568 - #28 nula
+INFO  00:06:42,568 - #10 ]
+INFO  00:06:42,568 - #8 =
+INFO  00:06:42,568 - #29 2
+INFO  00:06:42,568 - #5 ;
+INFO  00:06:42,568 - #28 niz
+INFO  00:06:42,568 - #9 [
+INFO  00:06:42,568 - #28 jedan
+INFO  00:06:42,568 - #10 ]
+INFO  00:06:42,568 - #8 =
+INFO  00:06:42,568 - #29 3
+INFO  00:06:42,568 - #5 ;
+INFO  00:06:42,568 - #28 niz
+INFO  00:06:42,568 - #9 [
+INFO  00:06:42,568 - #28 niz
+INFO  00:06:42,568 - #9 [
+INFO  00:06:42,568 - #28 nula
+INFO  00:06:42,568 - #10 ]
+INFO  00:06:42,568 - #10 ]
+INFO  00:06:42,568 - #8 =
+INFO  00:06:42,568 - #28 niz
+INFO  00:06:42,568 - #9 [
+INFO  00:06:42,568 - #29 1
+INFO  00:06:42,568 - #10 ]
+INFO  00:06:42,569 - #22 *
+INFO  00:06:42,569 - #29 4
+INFO  00:06:42,569 - #5 ;
+INFO  00:06:42,569 - #28 bodovi
+INFO  00:06:42,569 - #8 =
+INFO  00:06:42,569 - #28 niz
+INFO  00:06:42,569 - #9 [
+INFO  00:06:42,569 - #29 2
+INFO  00:06:42,569 - #10 ]
+INFO  00:06:42,569 - #23 /
+INFO  00:06:42,569 - #28 niz
+INFO  00:06:42,569 - #9 [
+INFO  00:06:42,569 - #29 0
+INFO  00:06:42,569 - #10 ]
+INFO  00:06:42,569 - #5 ;
+INFO  00:06:42,569 - #15 print
+INFO  00:06:42,569 - #11 (
+INFO  00:06:42,569 - #28 bodovi
+INFO  00:06:42,569 - #12 )
+INFO  00:06:42,569 - #5 ;
+INFO  00:06:42,569 - #15 print
+INFO  00:06:42,569 - #11 (
+INFO  00:06:42,569 - #28 eol
+INFO  00:06:42,569 - #12 )
+INFO  00:06:42,570 - #5 ;
+INFO  00:06:42,570 - #15 print
+INFO  00:06:42,570 - #11 (
+INFO  00:06:42,570 - #28 niz
+INFO  00:06:42,570 - #9 [
+INFO  00:06:42,570 - #29 2
+INFO  00:06:42,570 - #10 ]
+INFO  00:06:42,570 - #12 )
+INFO  00:06:42,570 - #5 ;
+INFO  00:06:42,570 - #15 print
+INFO  00:06:42,570 - #11 (
+INFO  00:06:42,570 - #28 eol
+INFO  00:06:42,570 - #12 )
+INFO  00:06:42,570 - #5 ;
+INFO  00:06:42,570 - #28 nizch
+INFO  00:06:42,570 - #8 =
+INFO  00:06:42,570 - #25 new
+INFO  00:06:42,570 - #28 char
+INFO  00:06:42,570 - #9 [
+INFO  00:06:42,570 - #29 3
+INFO  00:06:42,570 - #10 ]
+INFO  00:06:42,570 - #5 ;
+INFO  00:06:42,570 - #28 nizch
+INFO  00:06:42,570 - #9 [
+INFO  00:06:42,570 - #29 0
+INFO  00:06:42,570 - #10 ]
+INFO  00:06:42,570 - #8 =
+INFO  00:06:42,570 - #31 a
+INFO  00:06:42,570 - #5 ;
+INFO  00:06:42,570 - #28 nizch
+INFO  00:06:42,570 - #9 [
+INFO  00:06:42,570 - #28 jedan
+INFO  00:06:42,570 - #10 ]
+INFO  00:06:42,571 - #8 =
+INFO  00:06:42,571 - #31 b
+INFO  00:06:42,571 - #5 ;
+INFO  00:06:42,571 - #28 nizch
+INFO  00:06:42,571 - #9 [
+INFO  00:06:42,571 - #28 pet
+INFO  00:06:42,571 - #21 -
+INFO  00:06:42,571 - #29 3
+INFO  00:06:42,571 - #10 ]
+INFO  00:06:42,571 - #8 =
+INFO  00:06:42,571 - #31 c
+INFO  00:06:42,571 - #5 ;
+INFO  00:06:42,571 - #15 print
+INFO  00:06:42,571 - #11 (
+INFO  00:06:42,571 - #28 nizch
+INFO  00:06:42,571 - #9 [
+INFO  00:06:42,571 - #29 1
+INFO  00:06:42,571 - #10 ]
+INFO  00:06:42,571 - #12 )
+INFO  00:06:42,571 - #5 ;
+INFO  00:06:42,571 - #15 print
+INFO  00:06:42,571 - #11 (
+INFO  00:06:42,571 - #28 eol
+INFO  00:06:42,571 - #12 )
+INFO  00:06:42,571 - #5 ;
+INFO  00:06:42,571 - #15 print
+INFO  00:06:42,571 - #11 (
+INFO  00:06:42,571 - #28 nizch
+INFO  00:06:42,571 - #9 [
+INFO  00:06:42,571 - #28 jedan
+INFO  00:06:42,572 - #22 *
+INFO  00:06:42,572 - #29 2
+INFO  00:06:42,572 - #10 ]
+INFO  00:06:42,572 - #12 )
+INFO  00:06:42,572 - #5 ;
+INFO  00:06:42,572 - #15 print
+INFO  00:06:42,572 - #11 (
+INFO  00:06:42,572 - #28 eol
+INFO  00:06:42,572 - #12 )
+INFO  00:06:42,572 - #5 ;
+INFO  00:06:42,572 - #15 print
+INFO  00:06:42,572 - #11 (
+INFO  00:06:42,572 - #28 ord
+INFO  00:06:42,572 - #11 (
+INFO  00:06:42,572 - #28 nizch
+INFO  00:06:42,572 - #9 [
+INFO  00:06:42,572 - #29 0
+INFO  00:06:42,572 - #10 ]
+INFO  00:06:42,572 - #12 )
+INFO  00:06:42,573 - #12 )
+INFO  00:06:42,573 - #5 ;
+INFO  00:06:42,573 - #15 print
+INFO  00:06:42,573 - #11 (
+INFO  00:06:42,573 - #28 eol
+INFO  00:06:42,573 - #12 )
+INFO  00:06:42,573 - #5 ;
+INFO  00:06:42,573 - #28 a
+INFO  00:06:42,573 - #8 =
+INFO  00:06:42,573 - #29 1
+INFO  00:06:42,573 - #5 ;
+INFO  00:06:42,573 - #14 read
+INFO  00:06:42,573 - #11 (
+INFO  00:06:42,573 - #28 bodovi
+INFO  00:06:42,573 - #12 )
+INFO  00:06:42,573 - #5 ;
+INFO  00:06:42,573 - #28 bodovi
+INFO  00:06:42,573 - #8 =
+INFO  00:06:42,573 - #21 -
+INFO  00:06:42,573 - #28 bodovi
+INFO  00:06:42,573 - #20 +
+INFO  00:06:42,573 - #11 (
+INFO  00:06:42,573 - #28 pet
+INFO  00:06:42,573 - #22 *
+INFO  00:06:42,573 - #28 a
+INFO  00:06:42,573 - #23 /
+INFO  00:06:42,573 - #29 2
+INFO  00:06:42,574 - #21 -
+INFO  00:06:42,574 - #28 nula
+INFO  00:06:42,574 - #12 )
+INFO  00:06:42,574 - #22 *
+INFO  00:06:42,574 - #28 bodovi
+INFO  00:06:42,574 - #21 -
+INFO  00:06:42,574 - #11 (
+INFO  00:06:42,574 - #29 3
+INFO  00:06:42,574 - #24 %
+INFO  00:06:42,574 - #29 2
+INFO  00:06:42,574 - #20 +
+INFO  00:06:42,574 - #29 3
+INFO  00:06:42,574 - #22 *
+INFO  00:06:42,574 - #29 2
+INFO  00:06:42,574 - #21 -
+INFO  00:06:42,574 - #29 7
+INFO  00:06:42,574 - #12 )
+INFO  00:06:42,574 - #5 ;
+INFO  00:06:42,574 - #15 print
+INFO  00:06:42,574 - #11 (
+INFO  00:06:42,574 - #28 bodovi
+INFO  00:06:42,574 - #12 )
+INFO  00:06:42,574 - #5 ;
+INFO  00:06:42,574 - #15 print
+INFO  00:06:42,574 - #11 (
+INFO  00:06:42,574 - #28 eol
+INFO  00:06:42,574 - #12 )
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 niz
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 0
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #29 1
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 niz
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 1
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #29 2
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 niz
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 2
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #29 3
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 s1
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #25 new
+INFO  00:06:42,575 - #28 set
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 5
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 s2
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #25 new
+INFO  00:06:42,575 - #28 set
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 5
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 s3
+INFO  00:06:42,575 - #8 =
+INFO  00:06:42,575 - #25 new
+INFO  00:06:42,575 - #28 set
+INFO  00:06:42,575 - #9 [
+INFO  00:06:42,575 - #29 10
+INFO  00:06:42,575 - #10 ]
+INFO  00:06:42,575 - #5 ;
+INFO  00:06:42,575 - #28 addAll
+INFO  00:06:42,575 - #11 (
+INFO  00:06:42,575 - #28 s1
+INFO  00:06:42,576 - #6 ,
+INFO  00:06:42,576 - #28 niz
+INFO  00:06:42,576 - #12 )
+INFO  00:06:42,576 - #5 ;
+INFO  00:06:42,576 - #28 add
+INFO  00:06:42,576 - #11 (
+INFO  00:06:42,576 - #28 s2
+INFO  00:06:42,576 - #6 ,
+INFO  00:06:42,576 - #29 3
+INFO  00:06:42,576 - #12 )
+INFO  00:06:42,576 - #5 ;
+INFO  00:06:42,576 - #28 add
+INFO  00:06:42,576 - #11 (
+INFO  00:06:42,576 - #28 s2
+INFO  00:06:42,576 - #6 ,
+INFO  00:06:42,576 - #29 4
+INFO  00:06:42,576 - #12 )
+INFO  00:06:42,576 - #5 ;
+INFO  00:06:42,576 - #28 add
+INFO  00:06:42,576 - #11 (
+INFO  00:06:42,576 - #28 s2
+INFO  00:06:42,576 - #6 ,
+INFO  00:06:42,576 - #29 5
+INFO  00:06:42,576 - #12 )
+INFO  00:06:42,576 - #5 ;
+INFO  00:06:42,576 - #28 s3
+INFO  00:06:42,576 - #8 =
+INFO  00:06:42,576 - #28 s1
+INFO  00:06:42,577 - #16 union
+INFO  00:06:42,577 - #28 s2
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #15 print
+INFO  00:06:42,577 - #11 (
+INFO  00:06:42,577 - #28 s3
+INFO  00:06:42,577 - #12 )
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #15 print
+INFO  00:06:42,577 - #11 (
+INFO  00:06:42,577 - #28 eol
+INFO  00:06:42,577 - #12 )
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #28 niz
+INFO  00:06:42,577 - #9 [
+INFO  00:06:42,577 - #29 0
+INFO  00:06:42,577 - #10 ]
+INFO  00:06:42,577 - #8 =
+INFO  00:06:42,577 - #29 5
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #28 niz
+INFO  00:06:42,577 - #9 [
+INFO  00:06:42,577 - #29 1
+INFO  00:06:42,577 - #10 ]
+INFO  00:06:42,577 - #8 =
+INFO  00:06:42,577 - #29 5
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #28 niz
+INFO  00:06:42,577 - #9 [
+INFO  00:06:42,577 - #29 2
+INFO  00:06:42,577 - #10 ]
+INFO  00:06:42,577 - #8 =
+INFO  00:06:42,577 - #29 10
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #28 s1
+INFO  00:06:42,577 - #8 =
+INFO  00:06:42,577 - #25 new
+INFO  00:06:42,577 - #28 set
+INFO  00:06:42,577 - #9 [
+INFO  00:06:42,577 - #29 5
+INFO  00:06:42,577 - #10 ]
+INFO  00:06:42,577 - #5 ;
+INFO  00:06:42,577 - #28 s2
+INFO  00:06:42,577 - #8 =
+INFO  00:06:42,577 - #25 new
+INFO  00:06:42,578 - #28 set
+INFO  00:06:42,578 - #9 [
+INFO  00:06:42,578 - #29 5
+INFO  00:06:42,578 - #10 ]
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #28 s3
+INFO  00:06:42,578 - #8 =
+INFO  00:06:42,578 - #25 new
+INFO  00:06:42,578 - #28 set
+INFO  00:06:42,578 - #9 [
+INFO  00:06:42,578 - #29 10
+INFO  00:06:42,578 - #10 ]
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #28 addAll
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 s1
+INFO  00:06:42,578 - #6 ,
+INFO  00:06:42,578 - #28 niz
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #14 read
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #28 add
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 s2
+INFO  00:06:42,578 - #6 ,
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #14 read
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #28 add
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 s2
+INFO  00:06:42,578 - #6 ,
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #14 read
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #28 add
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 s2
+INFO  00:06:42,578 - #6 ,
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,578 - #12 )
+INFO  00:06:42,578 - #5 ;
+INFO  00:06:42,578 - #14 read
+INFO  00:06:42,578 - #11 (
+INFO  00:06:42,578 - #28 temp
+INFO  00:06:42,579 - #12 )
+INFO  00:06:42,579 - #5 ;
+INFO  00:06:42,579 - #28 add
+INFO  00:06:42,579 - #11 (
+INFO  00:06:42,579 - #28 s2
+INFO  00:06:42,579 - #6 ,
+INFO  00:06:42,579 - #28 temp
+INFO  00:06:42,579 - #12 )
+INFO  00:06:42,579 - #5 ;
+INFO  00:06:42,579 - #28 s3
+INFO  00:06:42,579 - #8 =
+INFO  00:06:42,579 - #28 s1
+INFO  00:06:42,579 - #16 union
+INFO  00:06:42,579 - #28 s2
+INFO  00:06:42,579 - #5 ;
+INFO  00:06:42,579 - #15 print
+INFO  00:06:42,579 - #11 (
+INFO  00:06:42,579 - #28 s3
+INFO  00:06:42,579 - #12 )
+INFO  00:06:42,579 - #5 ;
+INFO  00:06:42,579 - #4 }
+INFO  00:06:42,579 - #4 }
+INFO  00:06:42,587 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarConDeclList_v(
+    VarConDeclList_v(
+      VarConDeclList_v(
+        VarConDeclList_v(
+          VarConDeclList_c(
+            VarConDeclList_c(
+              VarConDeclList_c(
+                NoConVarDecl(
+                ) [NoConVarDecl]
+                ConDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  ConDeclOne(
+                   nula
+                    ConstValue_n(
+                     0
+                    ) [ConstValue_n]
+                  ) [ConDeclOne]
+                  NoConMore(
+                  ) [NoConMore]
+                ) [ConDecl]
+              ) [VarConDeclList_c]
+              ConDecl(
+                Type(
+                 int
+                ) [Type]
+                ConDeclOne(
+                 jedan
+                  ConstValue_n(
+                   1
+                  ) [ConstValue_n]
+                ) [ConDeclOne]
+                NoConMore(
+                ) [NoConMore]
+              ) [ConDecl]
+            ) [VarConDeclList_c]
+            ConDecl(
+              Type(
+               int
+              ) [Type]
+              ConDeclOne(
+               pet
+                ConstValue_n(
+                 5
+                ) [ConstValue_n]
+              ) [ConDeclOne]
+              NoConMore(
+              ) [NoConMore]
+            ) [ConDecl]
+          ) [VarConDeclList_c]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclOne(
+             niz
+              YesBrackets(
+              ) [YesBrackets]
+            ) [VarDeclOne]
+            NoVarMore(
+            ) [NoVarMore]
+          ) [VarDecl]
+        ) [VarConDeclList_v]
+        VarDecl(
+          Type(
+           char
+          ) [Type]
+          VarDeclOne(
+           nizch
+            YesBrackets(
+            ) [YesBrackets]
+          ) [VarDeclOne]
+          NoVarMore(
+          ) [NoVarMore]
+        ) [VarDecl]
+      ) [VarConDeclList_v]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclOne(
+         a
+          NoBrackets(
+          ) [NoBrackets]
+        ) [VarDeclOne]
+        NoVarMore(
+        ) [NoVarMore]
+      ) [VarDecl]
+    ) [VarConDeclList_v]
+    VarDecl(
+      Type(
+       set
+      ) [Type]
+      VarDeclOne(
+       s1
+        NoBrackets(
+        ) [NoBrackets]
+      ) [VarDeclOne]
+      YesVarMore(
+        VarDeclOne(
+         s2
+          NoBrackets(
+          ) [NoBrackets]
+        ) [VarDeclOne]
+        YesVarMore(
+          VarDeclOne(
+           s3
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VarDeclOne]
+          NoVarMore(
+          ) [NoVarMore]
+        ) [YesVarMore]
+      ) [YesVarMore]
+    ) [VarDecl]
+  ) [VarConDeclList_v]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodName(
+       main
+      ) [MethodName]
+      VarDeclarationsMeth(
+        VarDeclarationsMeth(
+          NoVarDeclMeth(
+          ) [NoVarDeclMeth]
+          VarDeclMeth(
+            Type(
+             int
+            ) [Type]
+            VarDeclOneMeth(
+             bodovi
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarDeclOneMeth]
+            NoVarMoreMeth(
+            ) [NoVarMoreMeth]
+          ) [VarDeclMeth]
+        ) [VarDeclarationsMeth]
+        VarDeclMeth(
+          Type(
+           int
+          ) [Type]
+          VarDeclOneMeth(
+           temp
+            NoBrackets(
+            ) [NoBrackets]
+          ) [VarDeclOneMeth]
+          NoVarMoreMeth(
+          ) [NoVarMoreMeth]
+        ) [VarDeclMeth]
+      ) [VarDeclarationsMeth]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    Statements(
+                                                      Statements(
+                                                        Statements(
+                                                          Statements(
+                                                            Statements(
+                                                              Statements(
+                                                                Statements(
+                                                                  Statements(
+                                                                    Statements(
+                                                                      Statements(
+                                                                        Statements(
+                                                                          Statements(
+                                                                            Statements(
+                                                                              Statements(
+                                                                                Statements(
+                                                                                  Statements(
+                                                                                    Statements(
+                                                                                      Statements(
+                                                                                        Statements(
+                                                                                          Statements(
+                                                                                            Statements(
+                                                                                              Statements(
+                                                                                                Statements(
+                                                                                                  Statements(
+                                                                                                    Statements(
+                                                                                                      Statements(
+                                                                                                        Statements(
+                                                                                                          Statements(
+                                                                                                            Statements(
+                                                                                                              Statements(
+                                                                                                                Statements(
+                                                                                                                  Statements(
+                                                                                                                    Statements(
+                                                                                                                      Statements(
+                                                                                                                        Statements(
+                                                                                                                          Statements(
+                                                                                                                            Statements(
+                                                                                                                              Statements(
+                                                                                                                                NoStmt(
+                                                                                                                                ) [NoStmt]
+                                                                                                                                Statement_d(
+                                                                                                                                  DesignatorStatement_expr(
+                                                                                                                                    Designator_i(
+                                                                                                                                     bodovi
+                                                                                                                                    ) [Designator_i]
+                                                                                                                                    SingleExpression(
+                                                                                                                                      SingleTerm(
+                                                                                                                                        Factor_n(
+                                                                                                                                         0
+                                                                                                                                        ) [Factor_n]
+                                                                                                                                      ) [SingleTerm]
+                                                                                                                                    ) [SingleExpression]
+                                                                                                                                  ) [DesignatorStatement_expr]
+                                                                                                                                ) [Statement_d]
+                                                                                                                              ) [Statements]
+                                                                                                                              Statement_d(
+                                                                                                                                DesignatorStatement_inc(
+                                                                                                                                  Designator_i(
+                                                                                                                                   bodovi
+                                                                                                                                  ) [Designator_i]
+                                                                                                                                ) [DesignatorStatement_inc]
+                                                                                                                              ) [Statement_d]
+                                                                                                                            ) [Statements]
+                                                                                                                            Statement_d(
+                                                                                                                              DesignatorStatement_expr(
+                                                                                                                                Designator_i(
+                                                                                                                                 bodovi
+                                                                                                                                ) [Designator_i]
+                                                                                                                                MultiExpression(
+                                                                                                                                  SingleExpression(
+                                                                                                                                    SingleTerm(
+                                                                                                                                      Factor_d(
+                                                                                                                                        Designator_i(
+                                                                                                                                         bodovi
+                                                                                                                                        ) [Designator_i]
+                                                                                                                                      ) [Factor_d]
+                                                                                                                                    ) [SingleTerm]
+                                                                                                                                  ) [SingleExpression]
+                                                                                                                                  AddOp_add(
+                                                                                                                                  ) [AddOp_add]
+                                                                                                                                  SingleTerm(
+                                                                                                                                    Factor_d(
+                                                                                                                                      Designator_i(
+                                                                                                                                       jedan
+                                                                                                                                      ) [Designator_i]
+                                                                                                                                    ) [Factor_d]
+                                                                                                                                  ) [SingleTerm]
+                                                                                                                                ) [MultiExpression]
+                                                                                                                              ) [DesignatorStatement_expr]
+                                                                                                                            ) [Statement_d]
+                                                                                                                          ) [Statements]
+                                                                                                                          Statement_d(
+                                                                                                                            DesignatorStatement_expr(
+                                                                                                                              Designator_i(
+                                                                                                                               bodovi
+                                                                                                                              ) [Designator_i]
+                                                                                                                              SingleExpression(
+                                                                                                                                MultiTerm(
+                                                                                                                                  SingleTerm(
+                                                                                                                                    Factor_d(
+                                                                                                                                      Designator_i(
+                                                                                                                                       bodovi
+                                                                                                                                      ) [Designator_i]
+                                                                                                                                    ) [Factor_d]
+                                                                                                                                  ) [SingleTerm]
+                                                                                                                                  MullOp_mul(
+                                                                                                                                  ) [MullOp_mul]
+                                                                                                                                  Factor_d(
+                                                                                                                                    Designator_i(
+                                                                                                                                     pet
+                                                                                                                                    ) [Designator_i]
+                                                                                                                                  ) [Factor_d]
+                                                                                                                                ) [MultiTerm]
+                                                                                                                              ) [SingleExpression]
+                                                                                                                            ) [DesignatorStatement_expr]
+                                                                                                                          ) [Statement_d]
+                                                                                                                        ) [Statements]
+                                                                                                                        Statement_d(
+                                                                                                                          DesignatorStatement_dec(
+                                                                                                                            Designator_i(
+                                                                                                                             bodovi
+                                                                                                                            ) [Designator_i]
+                                                                                                                          ) [DesignatorStatement_dec]
+                                                                                                                        ) [Statement_d]
+                                                                                                                      ) [Statements]
+                                                                                                                      Statement_p1(
+                                                                                                                        SingleExpression(
+                                                                                                                          SingleTerm(
+                                                                                                                            Factor_d(
+                                                                                                                              Designator_i(
+                                                                                                                               bodovi
+                                                                                                                              ) [Designator_i]
+                                                                                                                            ) [Factor_d]
+                                                                                                                          ) [SingleTerm]
+                                                                                                                        ) [SingleExpression]
+                                                                                                                        NoNumConst(
+                                                                                                                        ) [NoNumConst]
+                                                                                                                      ) [Statement_p1]
+                                                                                                                    ) [Statements]
+                                                                                                                    Statement_p1(
+                                                                                                                      SingleExpression(
+                                                                                                                        SingleTerm(
+                                                                                                                          Factor_d(
+                                                                                                                            Designator_i(
+                                                                                                                             eol
+                                                                                                                            ) [Designator_i]
+                                                                                                                          ) [Factor_d]
+                                                                                                                        ) [SingleTerm]
+                                                                                                                      ) [SingleExpression]
+                                                                                                                      NoNumConst(
+                                                                                                                      ) [NoNumConst]
+                                                                                                                    ) [Statement_p1]
+                                                                                                                  ) [Statements]
+                                                                                                                  Statement_d(
+                                                                                                                    DesignatorStatement_expr(
+                                                                                                                      Designator_i(
+                                                                                                                       niz
+                                                                                                                      ) [Designator_i]
+                                                                                                                      SingleExpression(
+                                                                                                                        SingleTerm(
+                                                                                                                          Factor_new(
+                                                                                                                            Type(
+                                                                                                                             int
+                                                                                                                            ) [Type]
+                                                                                                                            SingleExpression(
+                                                                                                                              SingleTerm(
+                                                                                                                                Factor_n(
+                                                                                                                                 3
+                                                                                                                                ) [Factor_n]
+                                                                                                                              ) [SingleTerm]
+                                                                                                                            ) [SingleExpression]
+                                                                                                                          ) [Factor_new]
+                                                                                                                        ) [SingleTerm]
+                                                                                                                      ) [SingleExpression]
+                                                                                                                    ) [DesignatorStatement_expr]
+                                                                                                                  ) [Statement_d]
+                                                                                                                ) [Statements]
+                                                                                                                Statement_d(
+                                                                                                                  DesignatorStatement_expr(
+                                                                                                                    Designator_array(
+                                                                                                                      DesignatorArrName(
+                                                                                                                       niz
+                                                                                                                      ) [DesignatorArrName]
+                                                                                                                      SingleExpression(
+                                                                                                                        SingleTerm(
+                                                                                                                          Factor_d(
+                                                                                                                            Designator_i(
+                                                                                                                             nula
+                                                                                                                            ) [Designator_i]
+                                                                                                                          ) [Factor_d]
+                                                                                                                        ) [SingleTerm]
+                                                                                                                      ) [SingleExpression]
+                                                                                                                    ) [Designator_array]
+                                                                                                                    SingleExpression(
+                                                                                                                      SingleTerm(
+                                                                                                                        Factor_n(
+                                                                                                                         2
+                                                                                                                        ) [Factor_n]
+                                                                                                                      ) [SingleTerm]
+                                                                                                                    ) [SingleExpression]
+                                                                                                                  ) [DesignatorStatement_expr]
+                                                                                                                ) [Statement_d]
+                                                                                                              ) [Statements]
+                                                                                                              Statement_d(
+                                                                                                                DesignatorStatement_expr(
+                                                                                                                  Designator_array(
+                                                                                                                    DesignatorArrName(
+                                                                                                                     niz
+                                                                                                                    ) [DesignatorArrName]
+                                                                                                                    SingleExpression(
+                                                                                                                      SingleTerm(
+                                                                                                                        Factor_d(
+                                                                                                                          Designator_i(
+                                                                                                                           jedan
+                                                                                                                          ) [Designator_i]
+                                                                                                                        ) [Factor_d]
+                                                                                                                      ) [SingleTerm]
+                                                                                                                    ) [SingleExpression]
+                                                                                                                  ) [Designator_array]
+                                                                                                                  SingleExpression(
+                                                                                                                    SingleTerm(
+                                                                                                                      Factor_n(
+                                                                                                                       3
+                                                                                                                      ) [Factor_n]
+                                                                                                                    ) [SingleTerm]
+                                                                                                                  ) [SingleExpression]
+                                                                                                                ) [DesignatorStatement_expr]
+                                                                                                              ) [Statement_d]
+                                                                                                            ) [Statements]
+                                                                                                            Statement_d(
+                                                                                                              DesignatorStatement_expr(
+                                                                                                                Designator_array(
+                                                                                                                  DesignatorArrName(
+                                                                                                                   niz
+                                                                                                                  ) [DesignatorArrName]
+                                                                                                                  SingleExpression(
+                                                                                                                    SingleTerm(
+                                                                                                                      Factor_d(
+                                                                                                                        Designator_array(
+                                                                                                                          DesignatorArrName(
+                                                                                                                           niz
+                                                                                                                          ) [DesignatorArrName]
+                                                                                                                          SingleExpression(
+                                                                                                                            SingleTerm(
+                                                                                                                              Factor_d(
+                                                                                                                                Designator_i(
+                                                                                                                                 nula
+                                                                                                                                ) [Designator_i]
+                                                                                                                              ) [Factor_d]
+                                                                                                                            ) [SingleTerm]
+                                                                                                                          ) [SingleExpression]
+                                                                                                                        ) [Designator_array]
+                                                                                                                      ) [Factor_d]
+                                                                                                                    ) [SingleTerm]
+                                                                                                                  ) [SingleExpression]
+                                                                                                                ) [Designator_array]
+                                                                                                                SingleExpression(
+                                                                                                                  MultiTerm(
+                                                                                                                    SingleTerm(
+                                                                                                                      Factor_d(
+                                                                                                                        Designator_array(
+                                                                                                                          DesignatorArrName(
+                                                                                                                           niz
+                                                                                                                          ) [DesignatorArrName]
+                                                                                                                          SingleExpression(
+                                                                                                                            SingleTerm(
+                                                                                                                              Factor_n(
+                                                                                                                               1
+                                                                                                                              ) [Factor_n]
+                                                                                                                            ) [SingleTerm]
+                                                                                                                          ) [SingleExpression]
+                                                                                                                        ) [Designator_array]
+                                                                                                                      ) [Factor_d]
+                                                                                                                    ) [SingleTerm]
+                                                                                                                    MullOp_mul(
+                                                                                                                    ) [MullOp_mul]
+                                                                                                                    Factor_n(
+                                                                                                                     4
+                                                                                                                    ) [Factor_n]
+                                                                                                                  ) [MultiTerm]
+                                                                                                                ) [SingleExpression]
+                                                                                                              ) [DesignatorStatement_expr]
+                                                                                                            ) [Statement_d]
+                                                                                                          ) [Statements]
+                                                                                                          Statement_d(
+                                                                                                            DesignatorStatement_expr(
+                                                                                                              Designator_i(
+                                                                                                               bodovi
+                                                                                                              ) [Designator_i]
+                                                                                                              SingleExpression(
+                                                                                                                MultiTerm(
+                                                                                                                  SingleTerm(
+                                                                                                                    Factor_d(
+                                                                                                                      Designator_array(
+                                                                                                                        DesignatorArrName(
+                                                                                                                         niz
+                                                                                                                        ) [DesignatorArrName]
+                                                                                                                        SingleExpression(
+                                                                                                                          SingleTerm(
+                                                                                                                            Factor_n(
+                                                                                                                             2
+                                                                                                                            ) [Factor_n]
+                                                                                                                          ) [SingleTerm]
+                                                                                                                        ) [SingleExpression]
+                                                                                                                      ) [Designator_array]
+                                                                                                                    ) [Factor_d]
+                                                                                                                  ) [SingleTerm]
+                                                                                                                  MullOp_div(
+                                                                                                                  ) [MullOp_div]
+                                                                                                                  Factor_d(
+                                                                                                                    Designator_array(
+                                                                                                                      DesignatorArrName(
+                                                                                                                       niz
+                                                                                                                      ) [DesignatorArrName]
+                                                                                                                      SingleExpression(
+                                                                                                                        SingleTerm(
+                                                                                                                          Factor_n(
+                                                                                                                           0
+                                                                                                                          ) [Factor_n]
+                                                                                                                        ) [SingleTerm]
+                                                                                                                      ) [SingleExpression]
+                                                                                                                    ) [Designator_array]
+                                                                                                                  ) [Factor_d]
+                                                                                                                ) [MultiTerm]
+                                                                                                              ) [SingleExpression]
+                                                                                                            ) [DesignatorStatement_expr]
+                                                                                                          ) [Statement_d]
+                                                                                                        ) [Statements]
+                                                                                                        Statement_p1(
+                                                                                                          SingleExpression(
+                                                                                                            SingleTerm(
+                                                                                                              Factor_d(
+                                                                                                                Designator_i(
+                                                                                                                 bodovi
+                                                                                                                ) [Designator_i]
+                                                                                                              ) [Factor_d]
+                                                                                                            ) [SingleTerm]
+                                                                                                          ) [SingleExpression]
+                                                                                                          NoNumConst(
+                                                                                                          ) [NoNumConst]
+                                                                                                        ) [Statement_p1]
+                                                                                                      ) [Statements]
+                                                                                                      Statement_p1(
+                                                                                                        SingleExpression(
+                                                                                                          SingleTerm(
+                                                                                                            Factor_d(
+                                                                                                              Designator_i(
+                                                                                                               eol
+                                                                                                              ) [Designator_i]
+                                                                                                            ) [Factor_d]
+                                                                                                          ) [SingleTerm]
+                                                                                                        ) [SingleExpression]
+                                                                                                        NoNumConst(
+                                                                                                        ) [NoNumConst]
+                                                                                                      ) [Statement_p1]
+                                                                                                    ) [Statements]
+                                                                                                    Statement_p1(
+                                                                                                      SingleExpression(
+                                                                                                        SingleTerm(
+                                                                                                          Factor_d(
+                                                                                                            Designator_array(
+                                                                                                              DesignatorArrName(
+                                                                                                               niz
+                                                                                                              ) [DesignatorArrName]
+                                                                                                              SingleExpression(
+                                                                                                                SingleTerm(
+                                                                                                                  Factor_n(
+                                                                                                                   2
+                                                                                                                  ) [Factor_n]
+                                                                                                                ) [SingleTerm]
+                                                                                                              ) [SingleExpression]
+                                                                                                            ) [Designator_array]
+                                                                                                          ) [Factor_d]
+                                                                                                        ) [SingleTerm]
+                                                                                                      ) [SingleExpression]
+                                                                                                      NoNumConst(
+                                                                                                      ) [NoNumConst]
+                                                                                                    ) [Statement_p1]
+                                                                                                  ) [Statements]
+                                                                                                  Statement_p1(
+                                                                                                    SingleExpression(
+                                                                                                      SingleTerm(
+                                                                                                        Factor_d(
+                                                                                                          Designator_i(
+                                                                                                           eol
+                                                                                                          ) [Designator_i]
+                                                                                                        ) [Factor_d]
+                                                                                                      ) [SingleTerm]
+                                                                                                    ) [SingleExpression]
+                                                                                                    NoNumConst(
+                                                                                                    ) [NoNumConst]
+                                                                                                  ) [Statement_p1]
+                                                                                                ) [Statements]
+                                                                                                Statement_d(
+                                                                                                  DesignatorStatement_expr(
+                                                                                                    Designator_i(
+                                                                                                     nizch
+                                                                                                    ) [Designator_i]
+                                                                                                    SingleExpression(
+                                                                                                      SingleTerm(
+                                                                                                        Factor_new(
+                                                                                                          Type(
+                                                                                                           char
+                                                                                                          ) [Type]
+                                                                                                          SingleExpression(
+                                                                                                            SingleTerm(
+                                                                                                              Factor_n(
+                                                                                                               3
+                                                                                                              ) [Factor_n]
+                                                                                                            ) [SingleTerm]
+                                                                                                          ) [SingleExpression]
+                                                                                                        ) [Factor_new]
+                                                                                                      ) [SingleTerm]
+                                                                                                    ) [SingleExpression]
+                                                                                                  ) [DesignatorStatement_expr]
+                                                                                                ) [Statement_d]
+                                                                                              ) [Statements]
+                                                                                              Statement_d(
+                                                                                                DesignatorStatement_expr(
+                                                                                                  Designator_array(
+                                                                                                    DesignatorArrName(
+                                                                                                     nizch
+                                                                                                    ) [DesignatorArrName]
+                                                                                                    SingleExpression(
+                                                                                                      SingleTerm(
+                                                                                                        Factor_n(
+                                                                                                         0
+                                                                                                        ) [Factor_n]
+                                                                                                      ) [SingleTerm]
+                                                                                                    ) [SingleExpression]
+                                                                                                  ) [Designator_array]
+                                                                                                  SingleExpression(
+                                                                                                    SingleTerm(
+                                                                                                      Factor_c(
+                                                                                                       a
+                                                                                                      ) [Factor_c]
+                                                                                                    ) [SingleTerm]
+                                                                                                  ) [SingleExpression]
+                                                                                                ) [DesignatorStatement_expr]
+                                                                                              ) [Statement_d]
+                                                                                            ) [Statements]
+                                                                                            Statement_d(
+                                                                                              DesignatorStatement_expr(
+                                                                                                Designator_array(
+                                                                                                  DesignatorArrName(
+                                                                                                   nizch
+                                                                                                  ) [DesignatorArrName]
+                                                                                                  SingleExpression(
+                                                                                                    SingleTerm(
+                                                                                                      Factor_d(
+                                                                                                        Designator_i(
+                                                                                                         jedan
+                                                                                                        ) [Designator_i]
+                                                                                                      ) [Factor_d]
+                                                                                                    ) [SingleTerm]
+                                                                                                  ) [SingleExpression]
+                                                                                                ) [Designator_array]
+                                                                                                SingleExpression(
+                                                                                                  SingleTerm(
+                                                                                                    Factor_c(
+                                                                                                     b
+                                                                                                    ) [Factor_c]
+                                                                                                  ) [SingleTerm]
+                                                                                                ) [SingleExpression]
+                                                                                              ) [DesignatorStatement_expr]
+                                                                                            ) [Statement_d]
+                                                                                          ) [Statements]
+                                                                                          Statement_d(
+                                                                                            DesignatorStatement_expr(
+                                                                                              Designator_array(
+                                                                                                DesignatorArrName(
+                                                                                                 nizch
+                                                                                                ) [DesignatorArrName]
+                                                                                                MultiExpression(
+                                                                                                  SingleExpression(
+                                                                                                    SingleTerm(
+                                                                                                      Factor_d(
+                                                                                                        Designator_i(
+                                                                                                         pet
+                                                                                                        ) [Designator_i]
+                                                                                                      ) [Factor_d]
+                                                                                                    ) [SingleTerm]
+                                                                                                  ) [SingleExpression]
+                                                                                                  AddOp_sub(
+                                                                                                  ) [AddOp_sub]
+                                                                                                  SingleTerm(
+                                                                                                    Factor_n(
+                                                                                                     3
+                                                                                                    ) [Factor_n]
+                                                                                                  ) [SingleTerm]
+                                                                                                ) [MultiExpression]
+                                                                                              ) [Designator_array]
+                                                                                              SingleExpression(
+                                                                                                SingleTerm(
+                                                                                                  Factor_c(
+                                                                                                   c
+                                                                                                  ) [Factor_c]
+                                                                                                ) [SingleTerm]
+                                                                                              ) [SingleExpression]
+                                                                                            ) [DesignatorStatement_expr]
+                                                                                          ) [Statement_d]
+                                                                                        ) [Statements]
+                                                                                        Statement_p1(
+                                                                                          SingleExpression(
+                                                                                            SingleTerm(
+                                                                                              Factor_d(
+                                                                                                Designator_array(
+                                                                                                  DesignatorArrName(
+                                                                                                   nizch
+                                                                                                  ) [DesignatorArrName]
+                                                                                                  SingleExpression(
+                                                                                                    SingleTerm(
+                                                                                                      Factor_n(
+                                                                                                       1
+                                                                                                      ) [Factor_n]
+                                                                                                    ) [SingleTerm]
+                                                                                                  ) [SingleExpression]
+                                                                                                ) [Designator_array]
+                                                                                              ) [Factor_d]
+                                                                                            ) [SingleTerm]
+                                                                                          ) [SingleExpression]
+                                                                                          NoNumConst(
+                                                                                          ) [NoNumConst]
+                                                                                        ) [Statement_p1]
+                                                                                      ) [Statements]
+                                                                                      Statement_p1(
+                                                                                        SingleExpression(
+                                                                                          SingleTerm(
+                                                                                            Factor_d(
+                                                                                              Designator_i(
+                                                                                               eol
+                                                                                              ) [Designator_i]
+                                                                                            ) [Factor_d]
+                                                                                          ) [SingleTerm]
+                                                                                        ) [SingleExpression]
+                                                                                        NoNumConst(
+                                                                                        ) [NoNumConst]
+                                                                                      ) [Statement_p1]
+                                                                                    ) [Statements]
+                                                                                    Statement_p1(
+                                                                                      SingleExpression(
+                                                                                        SingleTerm(
+                                                                                          Factor_d(
+                                                                                            Designator_array(
+                                                                                              DesignatorArrName(
+                                                                                               nizch
+                                                                                              ) [DesignatorArrName]
+                                                                                              SingleExpression(
+                                                                                                MultiTerm(
+                                                                                                  SingleTerm(
+                                                                                                    Factor_d(
+                                                                                                      Designator_i(
+                                                                                                       jedan
+                                                                                                      ) [Designator_i]
+                                                                                                    ) [Factor_d]
+                                                                                                  ) [SingleTerm]
+                                                                                                  MullOp_mul(
+                                                                                                  ) [MullOp_mul]
+                                                                                                  Factor_n(
+                                                                                                   2
+                                                                                                  ) [Factor_n]
+                                                                                                ) [MultiTerm]
+                                                                                              ) [SingleExpression]
+                                                                                            ) [Designator_array]
+                                                                                          ) [Factor_d]
+                                                                                        ) [SingleTerm]
+                                                                                      ) [SingleExpression]
+                                                                                      NoNumConst(
+                                                                                      ) [NoNumConst]
+                                                                                    ) [Statement_p1]
+                                                                                  ) [Statements]
+                                                                                  Statement_p1(
+                                                                                    SingleExpression(
+                                                                                      SingleTerm(
+                                                                                        Factor_d(
+                                                                                          Designator_i(
+                                                                                           eol
+                                                                                          ) [Designator_i]
+                                                                                        ) [Factor_d]
+                                                                                      ) [SingleTerm]
+                                                                                    ) [SingleExpression]
+                                                                                    NoNumConst(
+                                                                                    ) [NoNumConst]
+                                                                                  ) [Statement_p1]
+                                                                                ) [Statements]
+                                                                                Statement_p1(
+                                                                                  SingleExpression(
+                                                                                    SingleTerm(
+                                                                                      Factor_d_ap(
+                                                                                        Designator_i(
+                                                                                         ord
+                                                                                        ) [Designator_i]
+                                                                                        ActParsList(
+                                                                                          ActParsOne(
+                                                                                            SingleExpression(
+                                                                                              SingleTerm(
+                                                                                                Factor_d(
+                                                                                                  Designator_array(
+                                                                                                    DesignatorArrName(
+                                                                                                     nizch
+                                                                                                    ) [DesignatorArrName]
+                                                                                                    SingleExpression(
+                                                                                                      SingleTerm(
+                                                                                                        Factor_n(
+                                                                                                         0
+                                                                                                        ) [Factor_n]
+                                                                                                      ) [SingleTerm]
+                                                                                                    ) [SingleExpression]
+                                                                                                  ) [Designator_array]
+                                                                                                ) [Factor_d]
+                                                                                              ) [SingleTerm]
+                                                                                            ) [SingleExpression]
+                                                                                          ) [ActParsOne]
+                                                                                          MoreActParsNo(
+                                                                                          ) [MoreActParsNo]
+                                                                                        ) [ActParsList]
+                                                                                      ) [Factor_d_ap]
+                                                                                    ) [SingleTerm]
+                                                                                  ) [SingleExpression]
+                                                                                  NoNumConst(
+                                                                                  ) [NoNumConst]
+                                                                                ) [Statement_p1]
+                                                                              ) [Statements]
+                                                                              Statement_p1(
+                                                                                SingleExpression(
+                                                                                  SingleTerm(
+                                                                                    Factor_d(
+                                                                                      Designator_i(
+                                                                                       eol
+                                                                                      ) [Designator_i]
+                                                                                    ) [Factor_d]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpression]
+                                                                                NoNumConst(
+                                                                                ) [NoNumConst]
+                                                                              ) [Statement_p1]
+                                                                            ) [Statements]
+                                                                            Statement_d(
+                                                                              DesignatorStatement_expr(
+                                                                                Designator_i(
+                                                                                 a
+                                                                                ) [Designator_i]
+                                                                                SingleExpression(
+                                                                                  SingleTerm(
+                                                                                    Factor_n(
+                                                                                     1
+                                                                                    ) [Factor_n]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpression]
+                                                                              ) [DesignatorStatement_expr]
+                                                                            ) [Statement_d]
+                                                                          ) [Statements]
+                                                                          Statement_r(
+                                                                            Designator_i(
+                                                                             bodovi
+                                                                            ) [Designator_i]
+                                                                          ) [Statement_r]
+                                                                        ) [Statements]
+                                                                        Statement_d(
+                                                                          DesignatorStatement_expr(
+                                                                            Designator_i(
+                                                                             bodovi
+                                                                            ) [Designator_i]
+                                                                            MultiExpression(
+                                                                              MultiExpression(
+                                                                                SingleExpression(
+                                                                                  SingleTerm(
+                                                                                    Factor_dn(
+                                                                                      Designator_i(
+                                                                                       bodovi
+                                                                                      ) [Designator_i]
+                                                                                    ) [Factor_dn]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpression]
+                                                                                AddOp_add(
+                                                                                ) [AddOp_add]
+                                                                                MultiTerm(
+                                                                                  SingleTerm(
+                                                                                    Factor_expr(
+                                                                                      MultiExpression(
+                                                                                        SingleExpression(
+                                                                                          MultiTerm(
+                                                                                            MultiTerm(
+                                                                                              SingleTerm(
+                                                                                                Factor_d(
+                                                                                                  Designator_i(
+                                                                                                   pet
+                                                                                                  ) [Designator_i]
+                                                                                                ) [Factor_d]
+                                                                                              ) [SingleTerm]
+                                                                                              MullOp_mul(
+                                                                                              ) [MullOp_mul]
+                                                                                              Factor_d(
+                                                                                                Designator_i(
+                                                                                                 a
+                                                                                                ) [Designator_i]
+                                                                                              ) [Factor_d]
+                                                                                            ) [MultiTerm]
+                                                                                            MullOp_div(
+                                                                                            ) [MullOp_div]
+                                                                                            Factor_n(
+                                                                                             2
+                                                                                            ) [Factor_n]
+                                                                                          ) [MultiTerm]
+                                                                                        ) [SingleExpression]
+                                                                                        AddOp_sub(
+                                                                                        ) [AddOp_sub]
+                                                                                        SingleTerm(
+                                                                                          Factor_d(
+                                                                                            Designator_i(
+                                                                                             nula
+                                                                                            ) [Designator_i]
+                                                                                          ) [Factor_d]
+                                                                                        ) [SingleTerm]
+                                                                                      ) [MultiExpression]
+                                                                                    ) [Factor_expr]
+                                                                                  ) [SingleTerm]
+                                                                                  MullOp_mul(
+                                                                                  ) [MullOp_mul]
+                                                                                  Factor_d(
+                                                                                    Designator_i(
+                                                                                     bodovi
+                                                                                    ) [Designator_i]
+                                                                                  ) [Factor_d]
+                                                                                ) [MultiTerm]
+                                                                              ) [MultiExpression]
+                                                                              AddOp_sub(
+                                                                              ) [AddOp_sub]
+                                                                              SingleTerm(
+                                                                                Factor_expr(
+                                                                                  MultiExpression(
+                                                                                    MultiExpression(
+                                                                                      SingleExpression(
+                                                                                        MultiTerm(
+                                                                                          SingleTerm(
+                                                                                            Factor_n(
+                                                                                             3
+                                                                                            ) [Factor_n]
+                                                                                          ) [SingleTerm]
+                                                                                          MullOp_mod(
+                                                                                          ) [MullOp_mod]
+                                                                                          Factor_n(
+                                                                                           2
+                                                                                          ) [Factor_n]
+                                                                                        ) [MultiTerm]
+                                                                                      ) [SingleExpression]
+                                                                                      AddOp_add(
+                                                                                      ) [AddOp_add]
+                                                                                      MultiTerm(
+                                                                                        SingleTerm(
+                                                                                          Factor_n(
+                                                                                           3
+                                                                                          ) [Factor_n]
+                                                                                        ) [SingleTerm]
+                                                                                        MullOp_mul(
+                                                                                        ) [MullOp_mul]
+                                                                                        Factor_n(
+                                                                                         2
+                                                                                        ) [Factor_n]
+                                                                                      ) [MultiTerm]
+                                                                                    ) [MultiExpression]
+                                                                                    AddOp_sub(
+                                                                                    ) [AddOp_sub]
+                                                                                    SingleTerm(
+                                                                                      Factor_n(
+                                                                                       7
+                                                                                      ) [Factor_n]
+                                                                                    ) [SingleTerm]
+                                                                                  ) [MultiExpression]
+                                                                                ) [Factor_expr]
+                                                                              ) [SingleTerm]
+                                                                            ) [MultiExpression]
+                                                                          ) [DesignatorStatement_expr]
+                                                                        ) [Statement_d]
+                                                                      ) [Statements]
+                                                                      Statement_p1(
+                                                                        SingleExpression(
+                                                                          SingleTerm(
+                                                                            Factor_d(
+                                                                              Designator_i(
+                                                                               bodovi
+                                                                              ) [Designator_i]
+                                                                            ) [Factor_d]
+                                                                          ) [SingleTerm]
+                                                                        ) [SingleExpression]
+                                                                        NoNumConst(
+                                                                        ) [NoNumConst]
+                                                                      ) [Statement_p1]
+                                                                    ) [Statements]
+                                                                    Statement_p1(
+                                                                      SingleExpression(
+                                                                        SingleTerm(
+                                                                          Factor_d(
+                                                                            Designator_i(
+                                                                             eol
+                                                                            ) [Designator_i]
+                                                                          ) [Factor_d]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpression]
+                                                                      NoNumConst(
+                                                                      ) [NoNumConst]
+                                                                    ) [Statement_p1]
+                                                                  ) [Statements]
+                                                                  Statement_d(
+                                                                    DesignatorStatement_expr(
+                                                                      Designator_array(
+                                                                        DesignatorArrName(
+                                                                         niz
+                                                                        ) [DesignatorArrName]
+                                                                        SingleExpression(
+                                                                          SingleTerm(
+                                                                            Factor_n(
+                                                                             0
+                                                                            ) [Factor_n]
+                                                                          ) [SingleTerm]
+                                                                        ) [SingleExpression]
+                                                                      ) [Designator_array]
+                                                                      SingleExpression(
+                                                                        SingleTerm(
+                                                                          Factor_n(
+                                                                           1
+                                                                          ) [Factor_n]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpression]
+                                                                    ) [DesignatorStatement_expr]
+                                                                  ) [Statement_d]
+                                                                ) [Statements]
+                                                                Statement_d(
+                                                                  DesignatorStatement_expr(
+                                                                    Designator_array(
+                                                                      DesignatorArrName(
+                                                                       niz
+                                                                      ) [DesignatorArrName]
+                                                                      SingleExpression(
+                                                                        SingleTerm(
+                                                                          Factor_n(
+                                                                           1
+                                                                          ) [Factor_n]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpression]
+                                                                    ) [Designator_array]
+                                                                    SingleExpression(
+                                                                      SingleTerm(
+                                                                        Factor_n(
+                                                                         2
+                                                                        ) [Factor_n]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpression]
+                                                                  ) [DesignatorStatement_expr]
+                                                                ) [Statement_d]
+                                                              ) [Statements]
+                                                              Statement_d(
+                                                                DesignatorStatement_expr(
+                                                                  Designator_array(
+                                                                    DesignatorArrName(
+                                                                     niz
+                                                                    ) [DesignatorArrName]
+                                                                    SingleExpression(
+                                                                      SingleTerm(
+                                                                        Factor_n(
+                                                                         2
+                                                                        ) [Factor_n]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpression]
+                                                                  ) [Designator_array]
+                                                                  SingleExpression(
+                                                                    SingleTerm(
+                                                                      Factor_n(
+                                                                       3
+                                                                      ) [Factor_n]
+                                                                    ) [SingleTerm]
+                                                                  ) [SingleExpression]
+                                                                ) [DesignatorStatement_expr]
+                                                              ) [Statement_d]
+                                                            ) [Statements]
+                                                            Statement_d(
+                                                              DesignatorStatement_expr(
+                                                                Designator_i(
+                                                                 s1
+                                                                ) [Designator_i]
+                                                                SingleExpression(
+                                                                  SingleTerm(
+                                                                    Factor_new(
+                                                                      Type(
+                                                                       set
+                                                                      ) [Type]
+                                                                      SingleExpression(
+                                                                        SingleTerm(
+                                                                          Factor_n(
+                                                                           5
+                                                                          ) [Factor_n]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpression]
+                                                                    ) [Factor_new]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpression]
+                                                              ) [DesignatorStatement_expr]
+                                                            ) [Statement_d]
+                                                          ) [Statements]
+                                                          Statement_d(
+                                                            DesignatorStatement_expr(
+                                                              Designator_i(
+                                                               s2
+                                                              ) [Designator_i]
+                                                              SingleExpression(
+                                                                SingleTerm(
+                                                                  Factor_new(
+                                                                    Type(
+                                                                     set
+                                                                    ) [Type]
+                                                                    SingleExpression(
+                                                                      SingleTerm(
+                                                                        Factor_n(
+                                                                         5
+                                                                        ) [Factor_n]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpression]
+                                                                  ) [Factor_new]
+                                                                ) [SingleTerm]
+                                                              ) [SingleExpression]
+                                                            ) [DesignatorStatement_expr]
+                                                          ) [Statement_d]
+                                                        ) [Statements]
+                                                        Statement_d(
+                                                          DesignatorStatement_expr(
+                                                            Designator_i(
+                                                             s3
+                                                            ) [Designator_i]
+                                                            SingleExpression(
+                                                              SingleTerm(
+                                                                Factor_new(
+                                                                  Type(
+                                                                   set
+                                                                  ) [Type]
+                                                                  SingleExpression(
+                                                                    SingleTerm(
+                                                                      Factor_n(
+                                                                       10
+                                                                      ) [Factor_n]
+                                                                    ) [SingleTerm]
+                                                                  ) [SingleExpression]
+                                                                ) [Factor_new]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpression]
+                                                          ) [DesignatorStatement_expr]
+                                                        ) [Statement_d]
+                                                      ) [Statements]
+                                                      Statement_d(
+                                                        DesignatorStatement_funcitionCall(
+                                                          Designator_i(
+                                                           addAll
+                                                          ) [Designator_i]
+                                                          ActParsList(
+                                                            ActParsOne(
+                                                              SingleExpression(
+                                                                SingleTerm(
+                                                                  Factor_d(
+                                                                    Designator_i(
+                                                                     s1
+                                                                    ) [Designator_i]
+                                                                  ) [Factor_d]
+                                                                ) [SingleTerm]
+                                                              ) [SingleExpression]
+                                                            ) [ActParsOne]
+                                                            MoreActParsYes(
+                                                              ActParsOne(
+                                                                SingleExpression(
+                                                                  SingleTerm(
+                                                                    Factor_d(
+                                                                      Designator_i(
+                                                                       niz
+                                                                      ) [Designator_i]
+                                                                    ) [Factor_d]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpression]
+                                                              ) [ActParsOne]
+                                                              MoreActParsNo(
+                                                              ) [MoreActParsNo]
+                                                            ) [MoreActParsYes]
+                                                          ) [ActParsList]
+                                                        ) [DesignatorStatement_funcitionCall]
+                                                      ) [Statement_d]
+                                                    ) [Statements]
+                                                    Statement_d(
+                                                      DesignatorStatement_funcitionCall(
+                                                        Designator_i(
+                                                         add
+                                                        ) [Designator_i]
+                                                        ActParsList(
+                                                          ActParsOne(
+                                                            SingleExpression(
+                                                              SingleTerm(
+                                                                Factor_d(
+                                                                  Designator_i(
+                                                                   s2
+                                                                  ) [Designator_i]
+                                                                ) [Factor_d]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpression]
+                                                          ) [ActParsOne]
+                                                          MoreActParsYes(
+                                                            ActParsOne(
+                                                              SingleExpression(
+                                                                SingleTerm(
+                                                                  Factor_n(
+                                                                   3
+                                                                  ) [Factor_n]
+                                                                ) [SingleTerm]
+                                                              ) [SingleExpression]
+                                                            ) [ActParsOne]
+                                                            MoreActParsNo(
+                                                            ) [MoreActParsNo]
+                                                          ) [MoreActParsYes]
+                                                        ) [ActParsList]
+                                                      ) [DesignatorStatement_funcitionCall]
+                                                    ) [Statement_d]
+                                                  ) [Statements]
+                                                  Statement_d(
+                                                    DesignatorStatement_funcitionCall(
+                                                      Designator_i(
+                                                       add
+                                                      ) [Designator_i]
+                                                      ActParsList(
+                                                        ActParsOne(
+                                                          SingleExpression(
+                                                            SingleTerm(
+                                                              Factor_d(
+                                                                Designator_i(
+                                                                 s2
+                                                                ) [Designator_i]
+                                                              ) [Factor_d]
+                                                            ) [SingleTerm]
+                                                          ) [SingleExpression]
+                                                        ) [ActParsOne]
+                                                        MoreActParsYes(
+                                                          ActParsOne(
+                                                            SingleExpression(
+                                                              SingleTerm(
+                                                                Factor_n(
+                                                                 4
+                                                                ) [Factor_n]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpression]
+                                                          ) [ActParsOne]
+                                                          MoreActParsNo(
+                                                          ) [MoreActParsNo]
+                                                        ) [MoreActParsYes]
+                                                      ) [ActParsList]
+                                                    ) [DesignatorStatement_funcitionCall]
+                                                  ) [Statement_d]
+                                                ) [Statements]
+                                                Statement_d(
+                                                  DesignatorStatement_funcitionCall(
+                                                    Designator_i(
+                                                     add
+                                                    ) [Designator_i]
+                                                    ActParsList(
+                                                      ActParsOne(
+                                                        SingleExpression(
+                                                          SingleTerm(
+                                                            Factor_d(
+                                                              Designator_i(
+                                                               s2
+                                                              ) [Designator_i]
+                                                            ) [Factor_d]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpression]
+                                                      ) [ActParsOne]
+                                                      MoreActParsYes(
+                                                        ActParsOne(
+                                                          SingleExpression(
+                                                            SingleTerm(
+                                                              Factor_n(
+                                                               5
+                                                              ) [Factor_n]
+                                                            ) [SingleTerm]
+                                                          ) [SingleExpression]
+                                                        ) [ActParsOne]
+                                                        MoreActParsNo(
+                                                        ) [MoreActParsNo]
+                                                      ) [MoreActParsYes]
+                                                    ) [ActParsList]
+                                                  ) [DesignatorStatement_funcitionCall]
+                                                ) [Statement_d]
+                                              ) [Statements]
+                                              Statement_d(
+                                                DesignatorStatement_union(
+                                                  Designator_i(
+                                                   s3
+                                                  ) [Designator_i]
+                                                  Designator_i(
+                                                   s1
+                                                  ) [Designator_i]
+                                                  Designator_i(
+                                                   s2
+                                                  ) [Designator_i]
+                                                ) [DesignatorStatement_union]
+                                              ) [Statement_d]
+                                            ) [Statements]
+                                            Statement_p1(
+                                              SingleExpression(
+                                                SingleTerm(
+                                                  Factor_d(
+                                                    Designator_i(
+                                                     s3
+                                                    ) [Designator_i]
+                                                  ) [Factor_d]
+                                                ) [SingleTerm]
+                                              ) [SingleExpression]
+                                              NoNumConst(
+                                              ) [NoNumConst]
+                                            ) [Statement_p1]
+                                          ) [Statements]
+                                          Statement_p1(
+                                            SingleExpression(
+                                              SingleTerm(
+                                                Factor_d(
+                                                  Designator_i(
+                                                   eol
+                                                  ) [Designator_i]
+                                                ) [Factor_d]
+                                              ) [SingleTerm]
+                                            ) [SingleExpression]
+                                            NoNumConst(
+                                            ) [NoNumConst]
+                                          ) [Statement_p1]
+                                        ) [Statements]
+                                        Statement_d(
+                                          DesignatorStatement_expr(
+                                            Designator_array(
+                                              DesignatorArrName(
+                                               niz
+                                              ) [DesignatorArrName]
+                                              SingleExpression(
+                                                SingleTerm(
+                                                  Factor_n(
+                                                   0
+                                                  ) [Factor_n]
+                                                ) [SingleTerm]
+                                              ) [SingleExpression]
+                                            ) [Designator_array]
+                                            SingleExpression(
+                                              SingleTerm(
+                                                Factor_n(
+                                                 5
+                                                ) [Factor_n]
+                                              ) [SingleTerm]
+                                            ) [SingleExpression]
+                                          ) [DesignatorStatement_expr]
+                                        ) [Statement_d]
+                                      ) [Statements]
+                                      Statement_d(
+                                        DesignatorStatement_expr(
+                                          Designator_array(
+                                            DesignatorArrName(
+                                             niz
+                                            ) [DesignatorArrName]
+                                            SingleExpression(
+                                              SingleTerm(
+                                                Factor_n(
+                                                 1
+                                                ) [Factor_n]
+                                              ) [SingleTerm]
+                                            ) [SingleExpression]
+                                          ) [Designator_array]
+                                          SingleExpression(
+                                            SingleTerm(
+                                              Factor_n(
+                                               5
+                                              ) [Factor_n]
+                                            ) [SingleTerm]
+                                          ) [SingleExpression]
+                                        ) [DesignatorStatement_expr]
+                                      ) [Statement_d]
+                                    ) [Statements]
+                                    Statement_d(
+                                      DesignatorStatement_expr(
+                                        Designator_array(
+                                          DesignatorArrName(
+                                           niz
+                                          ) [DesignatorArrName]
+                                          SingleExpression(
+                                            SingleTerm(
+                                              Factor_n(
+                                               2
+                                              ) [Factor_n]
+                                            ) [SingleTerm]
+                                          ) [SingleExpression]
+                                        ) [Designator_array]
+                                        SingleExpression(
+                                          SingleTerm(
+                                            Factor_n(
+                                             10
+                                            ) [Factor_n]
+                                          ) [SingleTerm]
+                                        ) [SingleExpression]
+                                      ) [DesignatorStatement_expr]
+                                    ) [Statement_d]
+                                  ) [Statements]
+                                  Statement_d(
+                                    DesignatorStatement_expr(
+                                      Designator_i(
+                                       s1
+                                      ) [Designator_i]
+                                      SingleExpression(
+                                        SingleTerm(
+                                          Factor_new(
+                                            Type(
+                                             set
+                                            ) [Type]
+                                            SingleExpression(
+                                              SingleTerm(
+                                                Factor_n(
+                                                 5
+                                                ) [Factor_n]
+                                              ) [SingleTerm]
+                                            ) [SingleExpression]
+                                          ) [Factor_new]
+                                        ) [SingleTerm]
+                                      ) [SingleExpression]
+                                    ) [DesignatorStatement_expr]
+                                  ) [Statement_d]
+                                ) [Statements]
+                                Statement_d(
+                                  DesignatorStatement_expr(
+                                    Designator_i(
+                                     s2
+                                    ) [Designator_i]
+                                    SingleExpression(
+                                      SingleTerm(
+                                        Factor_new(
+                                          Type(
+                                           set
+                                          ) [Type]
+                                          SingleExpression(
+                                            SingleTerm(
+                                              Factor_n(
+                                               5
+                                              ) [Factor_n]
+                                            ) [SingleTerm]
+                                          ) [SingleExpression]
+                                        ) [Factor_new]
+                                      ) [SingleTerm]
+                                    ) [SingleExpression]
+                                  ) [DesignatorStatement_expr]
+                                ) [Statement_d]
+                              ) [Statements]
+                              Statement_d(
+                                DesignatorStatement_expr(
+                                  Designator_i(
+                                   s3
+                                  ) [Designator_i]
+                                  SingleExpression(
+                                    SingleTerm(
+                                      Factor_new(
+                                        Type(
+                                         set
+                                        ) [Type]
+                                        SingleExpression(
+                                          SingleTerm(
+                                            Factor_n(
+                                             10
+                                            ) [Factor_n]
+                                          ) [SingleTerm]
+                                        ) [SingleExpression]
+                                      ) [Factor_new]
+                                    ) [SingleTerm]
+                                  ) [SingleExpression]
+                                ) [DesignatorStatement_expr]
+                              ) [Statement_d]
+                            ) [Statements]
+                            Statement_d(
+                              DesignatorStatement_funcitionCall(
+                                Designator_i(
+                                 addAll
+                                ) [Designator_i]
+                                ActParsList(
+                                  ActParsOne(
+                                    SingleExpression(
+                                      SingleTerm(
+                                        Factor_d(
+                                          Designator_i(
+                                           s1
+                                          ) [Designator_i]
+                                        ) [Factor_d]
+                                      ) [SingleTerm]
+                                    ) [SingleExpression]
+                                  ) [ActParsOne]
+                                  MoreActParsYes(
+                                    ActParsOne(
+                                      SingleExpression(
+                                        SingleTerm(
+                                          Factor_d(
+                                            Designator_i(
+                                             niz
+                                            ) [Designator_i]
+                                          ) [Factor_d]
+                                        ) [SingleTerm]
+                                      ) [SingleExpression]
+                                    ) [ActParsOne]
+                                    MoreActParsNo(
+                                    ) [MoreActParsNo]
+                                  ) [MoreActParsYes]
+                                ) [ActParsList]
+                              ) [DesignatorStatement_funcitionCall]
+                            ) [Statement_d]
+                          ) [Statements]
+                          Statement_r(
+                            Designator_i(
+                             temp
+                            ) [Designator_i]
+                          ) [Statement_r]
+                        ) [Statements]
+                        Statement_d(
+                          DesignatorStatement_funcitionCall(
+                            Designator_i(
+                             add
+                            ) [Designator_i]
+                            ActParsList(
+                              ActParsOne(
+                                SingleExpression(
+                                  SingleTerm(
+                                    Factor_d(
+                                      Designator_i(
+                                       s2
+                                      ) [Designator_i]
+                                    ) [Factor_d]
+                                  ) [SingleTerm]
+                                ) [SingleExpression]
+                              ) [ActParsOne]
+                              MoreActParsYes(
+                                ActParsOne(
+                                  SingleExpression(
+                                    SingleTerm(
+                                      Factor_d(
+                                        Designator_i(
+                                         temp
+                                        ) [Designator_i]
+                                      ) [Factor_d]
+                                    ) [SingleTerm]
+                                  ) [SingleExpression]
+                                ) [ActParsOne]
+                                MoreActParsNo(
+                                ) [MoreActParsNo]
+                              ) [MoreActParsYes]
+                            ) [ActParsList]
+                          ) [DesignatorStatement_funcitionCall]
+                        ) [Statement_d]
+                      ) [Statements]
+                      Statement_r(
+                        Designator_i(
+                         temp
+                        ) [Designator_i]
+                      ) [Statement_r]
+                    ) [Statements]
+                    Statement_d(
+                      DesignatorStatement_funcitionCall(
+                        Designator_i(
+                         add
+                        ) [Designator_i]
+                        ActParsList(
+                          ActParsOne(
+                            SingleExpression(
+                              SingleTerm(
+                                Factor_d(
+                                  Designator_i(
+                                   s2
+                                  ) [Designator_i]
+                                ) [Factor_d]
+                              ) [SingleTerm]
+                            ) [SingleExpression]
+                          ) [ActParsOne]
+                          MoreActParsYes(
+                            ActParsOne(
+                              SingleExpression(
+                                SingleTerm(
+                                  Factor_d(
+                                    Designator_i(
+                                     temp
+                                    ) [Designator_i]
+                                  ) [Factor_d]
+                                ) [SingleTerm]
+                              ) [SingleExpression]
+                            ) [ActParsOne]
+                            MoreActParsNo(
+                            ) [MoreActParsNo]
+                          ) [MoreActParsYes]
+                        ) [ActParsList]
+                      ) [DesignatorStatement_funcitionCall]
+                    ) [Statement_d]
+                  ) [Statements]
+                  Statement_r(
+                    Designator_i(
+                     temp
+                    ) [Designator_i]
+                  ) [Statement_r]
+                ) [Statements]
+                Statement_d(
+                  DesignatorStatement_funcitionCall(
+                    Designator_i(
+                     add
+                    ) [Designator_i]
+                    ActParsList(
+                      ActParsOne(
+                        SingleExpression(
+                          SingleTerm(
+                            Factor_d(
+                              Designator_i(
+                               s2
+                              ) [Designator_i]
+                            ) [Factor_d]
+                          ) [SingleTerm]
+                        ) [SingleExpression]
+                      ) [ActParsOne]
+                      MoreActParsYes(
+                        ActParsOne(
+                          SingleExpression(
+                            SingleTerm(
+                              Factor_d(
+                                Designator_i(
+                                 temp
+                                ) [Designator_i]
+                              ) [Factor_d]
+                            ) [SingleTerm]
+                          ) [SingleExpression]
+                        ) [ActParsOne]
+                        MoreActParsNo(
+                        ) [MoreActParsNo]
+                      ) [MoreActParsYes]
+                    ) [ActParsList]
+                  ) [DesignatorStatement_funcitionCall]
+                ) [Statement_d]
+              ) [Statements]
+              Statement_r(
+                Designator_i(
+                 temp
+                ) [Designator_i]
+              ) [Statement_r]
+            ) [Statements]
+            Statement_d(
+              DesignatorStatement_funcitionCall(
+                Designator_i(
+                 add
+                ) [Designator_i]
+                ActParsList(
+                  ActParsOne(
+                    SingleExpression(
+                      SingleTerm(
+                        Factor_d(
+                          Designator_i(
+                           s2
+                          ) [Designator_i]
+                        ) [Factor_d]
+                      ) [SingleTerm]
+                    ) [SingleExpression]
+                  ) [ActParsOne]
+                  MoreActParsYes(
+                    ActParsOne(
+                      SingleExpression(
+                        SingleTerm(
+                          Factor_d(
+                            Designator_i(
+                             temp
+                            ) [Designator_i]
+                          ) [Factor_d]
+                        ) [SingleTerm]
+                      ) [SingleExpression]
+                    ) [ActParsOne]
+                    MoreActParsNo(
+                    ) [MoreActParsNo]
+                  ) [MoreActParsYes]
+                ) [ActParsList]
+              ) [DesignatorStatement_funcitionCall]
+            ) [Statement_d]
+          ) [Statements]
+          Statement_d(
+            DesignatorStatement_union(
+              Designator_i(
+               s3
+              ) [Designator_i]
+              Designator_i(
+               s1
+              ) [Designator_i]
+              Designator_i(
+               s2
+              ) [Designator_i]
+            ) [DesignatorStatement_union]
+          ) [Statement_d]
+        ) [Statements]
+        Statement_p1(
+          SingleExpression(
+            SingleTerm(
+              Factor_d(
+                Designator_i(
+                 s3
+                ) [Designator_i]
+              ) [Factor_d]
+            ) [SingleTerm]
+          ) [SingleExpression]
+          NoNumConst(
+          ) [NoNumConst]
+        ) [Statement_p1]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:06:42,588 - =====================================================================
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 21
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 22
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 23
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 23
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: jedan[Kind:0 Type:1 Adr:1 Level:0] na liniji 23
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 24
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 24
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: pet[Kind:0 Type:1 Adr:5 Level:0] na liniji 24
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 25
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 26
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 27
+INFO  00:06:42,592 - Pristup globalnoj promenljivoj: niz[Kind:1 Type:3 Adr:0 Level:0] na liniji 29
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: nula[Kind:0 Type:1 Adr:0 Level:0] na liniji 30
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: jedan[Kind:0 Type:1 Adr:1 Level:0] na liniji 31
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: nula[Kind:0 Type:1 Adr:0 Level:0] na liniji 32
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 33
+INFO  00:06:42,592 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 34
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 35
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 37
+INFO  00:06:42,592 - Pristup globalnoj promenljivoj: nizch[Kind:1 Type:3 Adr:1 Level:0] na liniji 39
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: jedan[Kind:0 Type:1 Adr:1 Level:0] na liniji 41
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: pet[Kind:0 Type:1 Adr:5 Level:0] na liniji 42
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 44
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: jedan[Kind:0 Type:1 Adr:1 Level:0] na liniji 45
+INFO  00:06:42,592 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 46
+INFO  00:06:42,593 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 48
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: a[Kind:1 Type:1 Adr:2 Level:0] na liniji 50
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 51
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 52
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 52
+INFO  00:06:42,593 - Pristup simbolickoj konstanti: pet[Kind:0 Type:1 Adr:5 Level:0] na liniji 52
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: a[Kind:1 Type:1 Adr:2 Level:0] na liniji 52
+INFO  00:06:42,593 - Pristup simbolickoj konstanti: nula[Kind:0 Type:1 Adr:0 Level:0] na liniji 52
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 52
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: bodovi[Kind:1 Type:1 Adr:0 Level:1] na liniji 53
+INFO  00:06:42,593 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 54
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 57
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 57
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 57
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 58
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: niz[Kind:1 Type:3 Adr:0 Level:0] na liniji 58
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 59
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 59
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 59
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 60
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 60
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 60
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 61
+INFO  00:06:42,593 - Pristup simbolickoj konstanti: eol[Kind:0 Type:2 Adr:10 Level:0] na liniji 62
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 65
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 65
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 65
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 66
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: niz[Kind:1 Type:3 Adr:0 Level:0] na liniji 66
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 67
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 67
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 67
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 68
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 68
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 68
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 69
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 69
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 69
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 70
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 70
+INFO  00:06:42,593 - Pristup lokalnoj promenljivoj: temp[Kind:1 Type:1 Adr:1 Level:1] na liniji 70
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 71
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s1[Kind:1 Type:6 Adr:3 Level:0] na liniji 71
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s2[Kind:1 Type:6 Adr:4 Level:0] na liniji 71
+INFO  00:06:42,593 - Pristup globalnoj promenljivoj: s3[Kind:1 Type:6 Adr:5 Level:0] na liniji 72
+INFO  00:06:42,593 - =====================================================================
+INFO  00:06:42,595 - Parsiranje uspesno zavrseno!
