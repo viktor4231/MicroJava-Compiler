@@ -1,0 +1,235 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+parser code {:
+
+	boolean errorDetected;
+	
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+
+
+:}
+
+
+init with {:
+	errorDetected = false;
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+// kada terminalu damo tip (Integer, Bool, String, Character) vrednost tog tipa se cuva kao polje klase
+
+terminal PROG, LBRACE, RBRACE, SEMI, COMMA, CONST, EQUAL, LBRACKET, RBRACKET, LPAREN, RPAREN, RETURN, READ, PRINT, UNION, INC, DEC, VOID;
+terminal PLUS, MINUS, MUL, DIV, MOD, NEW, DOT, COLON;
+terminal String IDENT;
+terminal Integer NUMBER, BOOL;
+terminal Character CHAR;
+
+nonterminal Program, VarConDeclList, MethodDeclList, VarDecl, ConDecl, VarMore, ConstValue, ConMore, Brackets;
+nonterminal MethodDecl, FormPars, FormalParamList, FormalParamDecl, VarDeclList, StatementList;
+nonterminal Statement, DesignatorStatement, ActParsList, ActParsOne, ActParsMore, AddOp, MullOp, Negation;
+nonterminal ProgName, ConDeclOne, VarDeclOne, VarDeclOneMeth, VarDeclListMeth, VarMoreMeth, VarDeclMeth;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Factor, Term, Expression, Type;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Designator, DesignatorArrName, MethodName, NumConst;
+
+Program ::= (Program) PROG ProgName VarConDeclList LBRACE MethodDeclList RBRACE;
+
+// smena u zagradi sme da se zove isto kao i neterminal samo u slucaju da neterminal ima samo jednu potencijalnu smenu
+
+ProgName ::= (ProgName) IDENT;
+
+VarConDeclList ::= (VarConDeclList_v) VarConDeclList VarDecl
+				   |
+				   (VarConDeclList_c) VarConDeclList ConDecl
+				   |
+				   (NoConVarDecl) /* epsilon */
+				   ;
+
+VarDeclList ::= (VarDeclarations) VarDeclList VarDecl
+			|
+			(NoVarDecl) /* epsilon */
+			;
+
+VarDecl ::= (VarDecl) Type VarDeclOne VarMore SEMI;
+
+VarDeclOne ::= (VarDeclOne) IDENT Brackets;
+
+VarMore ::= (YesVarMore) COMMA VarDeclOne VarMore
+			|
+			(NoVarMore) /* epsilon */
+			; 
+			
+VarDeclListMeth ::= (VarDeclarationsMeth) VarDeclListMeth VarDeclMeth
+			|
+			(NoVarDeclMeth) /* epsilon */
+			;
+
+VarDeclMeth ::= (VarDeclMeth) Type VarDeclOneMeth VarMoreMeth SEMI;
+
+VarDeclOneMeth ::= (VarDeclOneMeth) IDENT Brackets;
+
+VarMoreMeth ::= (YesVarMoreMeth) COMMA VarDeclOneMeth VarMoreMeth
+			|
+			(NoVarMoreMeth) /* epsilon */
+			; 
+			
+Brackets ::= (YesBrackets) LBRACKET RBRACKET
+			 |
+			 (NoBrackets) /* epsilon */
+			 ; 
+
+ConDecl ::= (ConDecl) CONST Type ConDeclOne ConMore SEMI;
+
+ConDeclOne ::= (ConDeclOne) IDENT EQUAL ConstValue;
+
+ConMore ::= (YesConMore) COMMA ConDeclOne ConMore
+			|
+			(NoConMore) /* epsilon */
+			; 
+			
+ConstValue ::= (ConstValue_n) NUMBER
+			   |
+			   (ConstValue_c) CHAR
+			   |
+			   (ConstValue_b) BOOL
+			   ; 
+
+Type ::= (Type) IDENT;
+
+MethodDeclList ::= (MethodDeclarations) MethodDeclList MethodDecl
+				|
+				(NoMethodDecl) /* epsilon */
+				;
+				
+MethodDecl ::= (MethodDecl) VOID MethodName LPAREN RPAREN VarDeclListMeth LBRACE StatementList RBRACE;
+
+MethodName ::= (MethodName) IDENT;
+
+StatementList ::= (Statements) StatementList Statement
+				|
+				(NoStmt) /* epsilon */
+				;
+				
+Statement ::= (Statement_d) DesignatorStatement SEMI
+			  |
+			  (Statement_r) READ LPAREN Designator RPAREN SEMI
+			  |
+			  (Statement_p1) PRINT LPAREN Expression NumConst RPAREN SEMI
+			  |
+			  (Statement_return) RETURN SEMI
+			  ;
+	
+NumConst ::= (NumConst_exists) COMMA NUMBER
+			 |
+			 (NoNumConst) /* epsilon */
+			 ; 
+			 
+DesignatorStatement ::= (DesignatorStatement_expr) Designator EQUAL Expression
+						|
+						(DesignatorStatement_err) error:er
+		   				{: parser.report_error("Izvrsen oporavak u DS ; u liniji " + erleft, null);  :}
+		   				|
+			 			(DesignatorStatement_inc) Designator INC 
+			 			|
+			 			(DesignatorStatement_dec) Designator DEC
+			 			|
+			 			(DesignatorStatement_union) Designator EQUAL Designator UNION Designator
+			 			|
+			 			(DesignatorStatement_funcitionCall) Designator LPAREN ActParsList RPAREN
+			 			|
+			 			(DesignatorStatement_funcitionCallNoParams) Designator LPAREN RPAREN
+			 			; 
+			 			
+ActParsList ::= (ActParsList) ActParsOne ActParsMore;
+
+ActParsOne ::= (ActParsOne) Expression;
+
+ActParsMore ::= (MoreActParsYes) COMMA ActParsOne ActParsMore
+			   |
+			   (MoreActParsNo) /* epsilon */
+			   ;
+			
+Expression ::= (MultiExpression) Expression AddOp Term
+			   |
+			   (SingleExpression) Term
+			   ;
+			   
+AddOp ::= (AddOp_add) PLUS 
+		  |
+		  (AddOp_sub) MINUS
+		  ;
+		  
+Term ::= (MultiTerm) Term MullOp Factor
+		 |
+	     (SingleTerm) Factor
+		 ;
+		 
+MullOp ::= (MullOp_mul) MUL
+		   |
+		   (MullOp_div) DIV
+		   |
+		   (MullOp_mod) MOD
+		   ;
+		   
+Designator ::= (Designator_i) IDENT
+			  |
+		      (Designator_array) DesignatorArrName LBRACKET Expression RBRACKET
+		      ;  
+		      
+DesignatorArrName ::= (DesignatorArrName) IDENT;
+ 
+Factor ::= (Factor_d) Designator
+		   |
+		   (Factor_dn) MINUS Designator
+		   |
+		   (Factor_n) NUMBER
+		   |
+		   (Factor_nn) MINUS NUMBER
+		   |
+		   (Factor_c) CHAR
+		   |
+		   (Factor_expr) LPAREN Expression RPAREN
+		   |
+		   (Factor_expr_neg) MINUS LPAREN Expression RPAREN
+		   |
+		   (Factor_b) BOOL
+		   |
+		   (Factor_new) NEW Type LBRACKET Expression RBRACKET 
+		   |
+		   (Factor_d_ap) Designator LPAREN ActParsList RPAREN
+		   |
+		   (Factor_d_apn) Designator LPAREN RPAREN
+		   ;
+	
